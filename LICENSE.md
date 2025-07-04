@@ -1,3 +1,5 @@
+## License Website: https://www.po2432.infinityfreeapp.com/po2432s-modders-license-1-0/
+
 # Po2432's Modder's License 1.0  
 **Copyright © 2025 Patata61, Po2432**
 
